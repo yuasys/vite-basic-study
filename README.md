@@ -21,7 +21,9 @@ viteの位置づけがいまひとつ理解できないで困っています。
   <summary><h3>素朴な疑問と調べて分かった答え</h3></summary>
   <dl>
     <dt>viteはバンドラー？それともビルダー？</dt>
-    <dd>バンドラーでもビルダーでもありません。フロントエンドツールのセットの名前だと思います。</dd>
+    <dd>バンドラーでもビルダーでもありません。フロントエンドツールのセットの名前だと思います。その理由は、公式サイトのトップでそのように明快に謳っているからです。<br>  
+    <img src="https://i.imgur.com/6ImGEhE.png" width="450" alt="What'a the Vite?"?
+    </dd>
      <dt>viteはなぜフロントエンドツールの名前と言えるの？</dt>
     <dd>主な機能だけでも多くのツールが含まれているからです。
     <a href="https://ja.vitejs.dev/"><img src="https://i.imgur.com/fW4uyKz.png" width="600" alt="about vite"></a>
