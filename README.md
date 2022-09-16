@@ -15,6 +15,5 @@ viteの位置づけがいまひとつ理解できないで困っています。
 有難いことに、最初から「日本語版」の公式サイトが準備されています。  
 言語の切り替えもメニューからワンタッチで選べるように作ってある点も気に入りました。  
 
-<img src="https://i.imgur.com/exe3uwN.png" alt="vite official website" width="600"></a>
-<img src="https://i.imgur.com/CSnnJ86.png" alt="select language image" width="300">
-
+<a href="https://ja.vitejs.dev/"><img src="https://i.imgur.com/exe3uwN.png" alt="vite official website" width="600"></a>
+<a href="https://ja.vitejs.dev/"><img src="https://i.imgur.com/CSnnJ86.png" alt="select language image" width="300"></a>
