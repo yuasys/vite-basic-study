@@ -25,8 +25,8 @@ viteの位置づけがいまひとつ理解できないで困っています。
     <img src="https://i.imgur.com/6ImGEhE.png" width="450" alt="What'a the Vite?"?
     </dd>
      <dt>viteはなぜフロントエンドツールの名前と言えるの？</dt>
-    <dd>主な機能だけでも多くのツールが含まれているからです。
+    <dd>主な機能だけでも多くのツールが含まれているからです。<br>
     <a href="https://ja.vitejs.dev/"><img src="https://i.imgur.com/fW4uyKz.png" width="600" alt="about vite"></a>
     </dd>
- 
+  </dl>
 </details>
